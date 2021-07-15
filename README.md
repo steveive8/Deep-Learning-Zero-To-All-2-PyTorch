@@ -1,4 +1,4 @@
-# Deep-Learning-Zero-To-All-2-Pytorch
+# Deep Learning Zero to All 2: PyTorch
 Study Scripts for Deep Learning Zero To All, Part 2, Pytorch
 
 
