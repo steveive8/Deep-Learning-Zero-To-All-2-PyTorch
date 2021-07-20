@@ -9,8 +9,6 @@ https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ
 
 original repository: https://github.com/deeplearningzerotoall/PyTorch
 
-# DeepLearningZeroToAll2 : Deep Learning For All created by All.
-
 Wellcome to DeepLearningToAll2 created by All Season2.
 
 ## Getting Started
