@@ -7,7 +7,7 @@ original repository: https://github.com/deeplearningzerotoall/PyTorch
 
 ---
 
-Wellcome to Deep Learning To All 2l Season 2.
+Wellcome to Deep Learning To All 2 Season 2.
 
 ## Getting Started
 
