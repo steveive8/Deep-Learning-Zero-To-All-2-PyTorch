@@ -1,15 +1,13 @@
 # Deep Learning Zero to All 2: PyTorch
 Study Scripts for Deep Learning Zero To All, Part 2, Pytorch
 
-Edited By Steve Ive with English sub and additional Contents.
-
-https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ
-
----
+Edited By Steve Ive with English sub and additional Contents. + Fixing bugs
 
 original repository: https://github.com/deeplearningzerotoall/PyTorch
 
-Wellcome to DeepLearningToAll2 created by All Season2.
+---
+
+Wellcome to Deep Learning To All 2 Season 2.
 
 ## Getting Started
 
