@@ -8,8 +8,6 @@ original repository: https://github.com/deeplearningzerotoall/PyTorch
 
 ---
 
-Wellcome to Deep Learning To All 2 Season 2.
-
 ## Getting Started
 
 You can start learning below links with scripts and youtube channel.
