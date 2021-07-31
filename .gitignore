@@ -1,5 +1,6 @@
 # Datas
 MNIST_data/
+cifar10/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
