@@ -1,6 +1,8 @@
 # Datas
 MNIST_data/
 cifar10/
+catsanddogs/
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
