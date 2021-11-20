@@ -4,8 +4,6 @@
 
 Study Scripts for Deep Learning Zero To All, Part 2, Pytorch
 
-original repository: https://github.com/deeplearningzerotoall/PyTorch
-
 ---
 
 ## Getting Started
